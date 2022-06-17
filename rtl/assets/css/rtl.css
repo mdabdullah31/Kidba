@@ -134,10 +134,7 @@ form input {
 	margin-right: 0;
 	margin-left: 20px;
 }
-.footer-single-info.px-30 {
-	padding-right: 30px;
-	padding-left:0 ;
-}
+
 .footer-single-info.border-l {
 	border-right: 1px solid #804BFF;
 	border-left: 0;
@@ -425,4 +422,21 @@ span.lv-part-blog-calendar-date i {
 .sign-input i {
 	left: auto;
 	right: 25px;
+}
+
+.shop-card-price span.ml-10 {
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+.cart-txt {
+	text-align: right;
+}
+.text-grandtotal .f-right {
+	float: left;
+}
+
+.color-9 .ml-20 {
+	margin-left: 0;
+	margin-right: 20px;
 }
